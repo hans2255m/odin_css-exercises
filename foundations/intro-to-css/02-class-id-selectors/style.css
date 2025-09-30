@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.p {
+    background-color: #f28484;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.p1 {
+    font-size: 30px;
+}
+
+#special {
+    color: #1e45f3;
+    font-size: 40px;
+}
+
+#special2 {
+    background-color: #1cda42;
+    font-weight: 700;
+    font-size: 30px;
+}
